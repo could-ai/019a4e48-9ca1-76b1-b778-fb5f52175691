@@ -9,7 +9,7 @@ class GalleryScreen extends StatelessWidget {
   // root directory, and inside 'assets', create another folder named 'images'.
   // Place your pictures inside 'assets/images/'.
   // Example: 'assets/images/our_first_date.jpg'
-  final List<String> _imagePaths = [
+  final List<String> _imagePaths = const [
     'assets/images/image1.jpg',
     'assets/images/image2.jpg',
     'assets/images/image3.jpg',
