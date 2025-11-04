@@ -11,14 +11,9 @@ class GalleryScreen extends StatelessWidget {
   // Example: 'assets/images/our_first_date.jpg'
   final List<String> _imagePaths = const [
     'assets/images/image1.jpg',
-    'assets/images/image2.jpg',
-    'assets/images/image3.jpg',
-    'assets/images/image4.jpg',
-    'assets/images/image5.jpg',
-    'assets/images/image6.jpg',
-    'assets/images/image7.jpg',
-    'assets/images/image8.jpg',
-    // Add all your image paths here
+    // Add more image paths here like:
+    // 'assets/images/image2.jpg',
+    // 'assets/images/image3.jpg',
   ];
 
   @override
